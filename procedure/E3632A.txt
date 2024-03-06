@@ -1,0 +1,18 @@
+VOLTage:RANGe LOW
+OUTPUT ON
+VOLT 10
+CURRENT 1
+VOLT?
+MEASure:VOLTage:DC?
+*******************
+VOLTage:RANGe HIGH
+VOLT 20
+VOLT?
+MEASure:VOLTage:DC?
+*******************
+VOLTage:RANGe LOW
+OUTPUT ON
+VOLT 15
+VOLT?
+MEASure:VOLTage:DC?
+*******************
